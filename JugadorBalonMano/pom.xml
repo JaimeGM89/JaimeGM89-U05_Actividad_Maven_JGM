@@ -1,0 +1,9 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.utad.dadu</groupId>
+  <artifactId>JugadorBalonMano</artifactId>
+  <version>1.9</version>
+  <name>ProyectoA_JGM</name>
+  <description>Primer proyecto maven
+</description>
+</project>
